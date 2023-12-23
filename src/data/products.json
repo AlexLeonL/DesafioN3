@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Nuevo Producto",
+    "description": "Descripción del nuevo producto",
+    "code": "nuevo123",
+    "price": 10,
+    "status": true,
+    "stock": 20,
+    "category": "Electrónicos",
+    "thumbnails": [
+      "imagen1.jpg",
+      "imagen2.jpg"
+    ],
+    "id": 3
+  },
+  {
+    "title": "Nuevo Producto",
+    "description": "Descripción del nuevo producto",
+    "code": "nuevo123",
+    "price": 150,
+    "status": true,
+    "stock": 20,
+    "category": "Electrónicos",
+    "thumbnails": [
+      "imagen1.jpg",
+      "imagen2.jpg"
+    ],
+    "id": 1
+  }
+]
